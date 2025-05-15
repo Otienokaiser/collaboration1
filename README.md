@@ -1,2 +1,2 @@
 # collaboration1
-loafer selling website
+loafer selling web application
